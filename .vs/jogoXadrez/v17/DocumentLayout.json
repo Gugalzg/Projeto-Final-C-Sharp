@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\application\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\application\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\boardgame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\boardgame\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\boardgame\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\boardgame\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\chessmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\chessmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\chessposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\chessposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\chessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\chessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\chess\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\chess\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\boardgame\\boardexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\boardgame\\boardexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|c:\\users\\usuario\\source\\repos\\jogoxadrez\\jogoxadrez\\boardgame\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EAA3E3-453B-40A8-A781-4EDE2A7C1FB2}|jogoXadrez\\jogoXadrez.csproj|solutionrelative:jogoxadrez\\boardgame\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\Rook.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Rook.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\Rook.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:11:17.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Queen.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\Queen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Queen.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\Queen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:09:58.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Pawn.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\Pawn.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowCUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:07:39.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\Knight.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Knight.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\Knight.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:06:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\King.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\King.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\King.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\King.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:00:50.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\pieces\\Bishop.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\pieces\\Bishop.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\pieces\\Bishop.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:56:47.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChessException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessException.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\ChessException.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessException.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\ChessException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:28:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessPosition.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\ChessPosition.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessPosition.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\ChessPosition.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:26:16.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\ChessPiece.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessPiece.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\ChessPiece.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:22:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\Color.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\Color.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\Color.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:15:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChessMatch.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessMatch.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\chess\\ChessMatch.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\chess\\ChessMatch.cs",
+              "RelativeToolTip": "jogoXadrez\\chess\\ChessMatch.cs",
+              "ViewState": "AQIAAPsAAAAAAAAAAAAqwBEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:12:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Piece.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\boardgame\\Piece.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Piece.cs",
+              "RelativeToolTip": "jogoXadrez\\boardgame\\Piece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:59:56.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Board.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\boardgame\\Board.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Board.cs",
+              "RelativeToolTip": "jogoXadrez\\boardgame\\Board.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwEkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:58:37.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\application\\UI.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\application\\UI.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\application\\UI.cs",
+              "RelativeToolTip": "jogoXadrez\\application\\UI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:48:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\application\\Program.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\application\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\application\\Program.cs",
+              "RelativeToolTip": "jogoXadrez\\application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:46:06.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoardException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\BoardException.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\boardgame\\BoardException.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\BoardException.cs",
+              "RelativeToolTip": "jogoXadrez\\boardgame\\BoardException.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T13:59:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Position.cs",
+              "RelativeDocumentMoniker": "jogoXadrez\\boardgame\\Position.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\jogoXadrez\\jogoXadrez\\boardgame\\Position.cs",
+              "RelativeToolTip": "jogoXadrez\\boardgame\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:02:10.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

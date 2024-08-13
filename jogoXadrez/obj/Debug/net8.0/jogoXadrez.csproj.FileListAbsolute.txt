@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\bin\Debug\net8.0\jogoXadrez.exe
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\bin\Debug\net8.0\jogoXadrez.deps.json
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\bin\Debug\net8.0\jogoXadrez.runtimeconfig.json
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\bin\Debug\net8.0\jogoXadrez.dll
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\bin\Debug\net8.0\jogoXadrez.pdb
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.dll
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\refint\jogoXadrez.dll
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.pdb
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\ref\jogoXadrez.dll
