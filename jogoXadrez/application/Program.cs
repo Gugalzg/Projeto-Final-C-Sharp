@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using jogoXadrez.application;
-using jogoXadrez.chess;
+using jogoXadrez.Application;
+using jogoXadrez.Chess;
 
-namespace jogoXadrez.application
+namespace jogoXadrez.Application
 {
     class Program
     {

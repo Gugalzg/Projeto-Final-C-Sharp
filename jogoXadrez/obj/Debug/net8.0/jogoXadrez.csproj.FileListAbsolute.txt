@@ -12,3 +12,4 @@ C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\refint\jogo
 C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.pdb
 C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\ref\jogoXadrez.dll
+C:\Users\Usuario\source\repos\jogoXadrez\jogoXadrez\obj\Debug\net8.0\jogoXadrez.sourcelink.json

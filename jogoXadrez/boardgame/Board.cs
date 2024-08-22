@@ -1,4 +1,4 @@
-﻿using jogoXadrez.boardgame.boardgame;
+﻿using jogoXadrez.Boardgame.boardgame;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace jogoXadrez.boardgame
+namespace jogoXadrez.Boardgame
 {
     public class Board
     {

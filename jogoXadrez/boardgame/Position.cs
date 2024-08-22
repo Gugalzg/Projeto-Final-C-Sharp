@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace jogoXadrez.boardgame
+namespace jogoXadrez.Boardgame
 {
         public class Position
         {

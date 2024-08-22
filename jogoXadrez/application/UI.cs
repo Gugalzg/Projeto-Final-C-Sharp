@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using jogoXadrez.chess;
+using jogoXadrez.Chess;
 
-namespace jogoXadrez.application
+namespace jogoXadrez.Application
 {
     static class UI
     {
@@ -149,10 +149,10 @@ namespace jogoXadrez.application
 
         public static void PrintHeader()
         {
-            Console.WriteLine(ANSI_CYAN + "============================         R -> Tower "
-                + "|| N -> Knight");
-            Console.WriteLine("|       CHESS GAME         |         B -> Bishop || Q -> Queen");
-            Console.WriteLine("============================         K -> King   || P -> Pawn" + ANSI_RESET);
+            Console.WriteLine(ANSI_CYAN + "============================         R -> Torre "
+                + "|| N -> Cavalo");
+            Console.WriteLine("|       CHESS GAME         |         B -> Bispo || Q -> Rainha");
+            Console.WriteLine("============================         K -> Rei   || P -> Peao" + ANSI_RESET);
         }
     }
 }

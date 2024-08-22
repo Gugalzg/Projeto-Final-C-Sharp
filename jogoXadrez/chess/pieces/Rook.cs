@@ -1,11 +1,11 @@
-﻿using jogoXadrez.boardgame;
+﻿using jogoXadrez.Boardgame;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace jogoXadrez.chess.pieces
+namespace jogoXadrez.Chess.Pieces
 {
     public class Rook : ChessPiece
     {
